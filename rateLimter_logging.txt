@@ -1,0 +1,34 @@
+2024-10-12 02:43:20 - Fetching configuration for ID: {}1
+2024-10-12 02:51:13 - Fetching configuration for ID: {}1
+2024-10-12 02:52:14 - Fetching configuration for ID: {}1
+2024-10-12 02:54:29 - Fetching configuration for ID: {}1
+2024-10-12 02:54:30 - Configuration cached in Redis for ID: {}1
+2024-10-12 02:54:30 - Rate limit configuration: {} for user ID: {}Rate_limit_configurations(id=1, max_requests=2, timeWindow=10)1
+2024-10-12 02:54:30 - Valid timestamps for user ID 1: 0
+2024-10-12 02:54:34 - Fetching configuration for ID: {}1
+2024-10-12 02:54:34 - Rate limit configuration: {} for user ID: {}Rate_limit_configurations(id=1, max_requests=2, timeWindow=10)1
+2024-10-12 02:54:34 - Valid timestamps for user ID 1: 1
+2024-10-12 02:54:36 - Fetching configuration for ID: {}1
+2024-10-12 02:54:36 - Rate limit configuration: {} for user ID: {}Rate_limit_configurations(id=1, max_requests=2, timeWindow=10)1
+2024-10-12 02:54:36 - Valid timestamps for user ID 1: 2
+2024-10-12 02:54:36 - Rate limit exceeded. Try later.
+2024-10-12 03:02:15 - Fetching configuration for ID: {}1
+2024-10-12 03:02:15 - Rate limit configuration: {} for user ID: {}Rate_limit_configurations(id=1, max_requests=2, timeWindow=10)1
+2024-10-12 03:02:15 - Valid timestamps for user ID 1: 0
+2024-10-12 03:02:16 - Fetching configuration for ID: {}1
+2024-10-12 03:02:16 - Rate limit configuration: {} for user ID: {}Rate_limit_configurations(id=1, max_requests=2, timeWindow=10)1
+2024-10-12 03:02:16 - Valid timestamps for user ID 1: 1
+2024-10-12 03:02:18 - Fetching configuration for ID: {}1
+2024-10-12 03:02:18 - Rate limit configuration: {} for user ID: {}Rate_limit_configurations(id=1, max_requests=2, timeWindow=10)1
+2024-10-12 03:02:18 - Valid timestamps for user ID 1: 2
+2024-10-12 03:02:18 - Rate limit exceeded. Try later.
+2024-10-12 03:04:14 - Fetching configuration for ID: {}1
+2024-10-12 03:04:15 - Rate limit configuration: {} for user ID: {}Rate_limit_configurations(id=1, max_requests=2, timeWindow=10)1
+2024-10-12 03:04:15 - Valid timestamps for user ID 1: 0
+2024-10-12 03:04:17 - Fetching configuration for ID: {}1
+2024-10-12 03:04:17 - Rate limit configuration: {} for user ID: {}Rate_limit_configurations(id=1, max_requests=2, timeWindow=10)1
+2024-10-12 03:04:17 - Valid timestamps for user ID 1: 1
+2024-10-12 03:04:18 - Fetching configuration for ID: {}1
+2024-10-12 03:04:18 - Rate limit configuration: {} for user ID: {}Rate_limit_configurations(id=1, max_requests=2, timeWindow=10)1
+2024-10-12 03:04:18 - Valid timestamps for user ID 1: 2
+2024-10-12 03:04:18 - Rate limit exceeded. Try later.
